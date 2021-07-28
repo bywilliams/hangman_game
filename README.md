@@ -97,7 +97,7 @@ while not end_of_game:
 
 # Image of Application
 
-![image da aplicação](/home/kyorazo/curso_python_angela/Curso Angela/day 7/images/hangman.gif)
+![image da aplicação](/images/hangman.gif)
 
 # Instalation
 
